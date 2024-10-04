@@ -1,0 +1,4 @@
+matplotlib==3.9.2
+pyproj==3.7.0
+rasterio==1.4.1
+opencv-python==4.10.0.84
