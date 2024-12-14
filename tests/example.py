@@ -7,7 +7,7 @@ import tkinter as tk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import cv2
 import rasterio
-from pyproj import Proj, transform
+from pyproj import Proj
 
 # Load the SAM2 model
 from sam2.build_sam import build_sam2
