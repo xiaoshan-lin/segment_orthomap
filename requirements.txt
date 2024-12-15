@@ -1,9 +1,0 @@
-numpy==2.1.1
-torch==2.4.1
-matplotlib==3.9.2
-Pillow==10.4.0
-opencv-python==4.10.0.84
-rasterio==1.4.1
-pyproj==3.7.0
--e git+https://github.com/facebookresearch/sam2.git@8bf0920e668c26e9a1cf3739ec72d670a5050d1b#egg=SAM_2&subdirectory=../../../deps/sam2
-
